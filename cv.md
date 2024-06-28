@@ -17,3 +17,13 @@ My strengths: quick learning and adaptation to new conditions.
 - Git
 - C#
 - Figma
+## Code Example
+```
+function greet (name, owner) {
+  if (name === owner) {
+    return "Hello boss";
+  } else {
+    return "Hello guest";
+  }
+}
+```
