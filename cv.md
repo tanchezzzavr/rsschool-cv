@@ -37,3 +37,7 @@ My responsibilities include purchasing and registering domains and hosting, edit
 - **Courses**:
     - [HTML Academy](https://htmlacademy.ru/)
     - [Zerocoder](https://zerocoder.ru/)
+## Languages
+- Russian, Native
+- Ukrainian, Intermediate
+- English, Elementary
