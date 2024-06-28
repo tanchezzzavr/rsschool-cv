@@ -27,3 +27,6 @@ function greet (name, owner) {
   }
 }
 ```
+## Experience
+Since August 2023 I have been working in a small e-commerce company.  
+My responsibilities include purchasing and registering domains and hosting, editing code, uploading sites to hosting and technical support for site performance.
