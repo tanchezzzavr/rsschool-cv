@@ -30,3 +30,10 @@ function greet (name, owner) {
 ## Experience
 Since August 2023 I have been working in a small e-commerce company.  
 My responsibilities include purchasing and registering domains and hosting, editing code, uploading sites to hosting and technical support for site performance.
+## Education
+- **University**:
+   - Togliatti Academy of Management, Applied Computer Science in Digital Economics (2021-2022)
+   - Togliatti State University, Digital business transformation (2022-2024)
+- **Courses**:
+    - [HTML Academy](https://htmlacademy.ru/)
+    - [Zerocoder](https://zerocoder.ru/)
