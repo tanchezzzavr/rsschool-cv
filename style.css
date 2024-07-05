@@ -86,16 +86,28 @@ p {
     margin-right: 100px;
 }
 
-/*список скиллов и образования*/
+/*список скиллов*/
 
 .container-skills {
     text-align: left;
     padding-left: 24px;
 }
 
-/*список языков*/
+/*список образования*/
 
 .list-indentation {
     text-align: left;
     padding-left: 124px;
+}
+
+/*оформление примера кода*/
+
+pre,
+code {
+    background-color: black;
+    background-position: left;
+    margin-left: 100px;
+    height: 140px;
+    width: 300px;
+    color:#FFFFFF
 }
