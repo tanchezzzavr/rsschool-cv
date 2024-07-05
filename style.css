@@ -112,3 +112,20 @@ code {
     width: 300px;
     color:#FFFFFF
 }
+
+footer {
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    outline: none;
+    text-decoration: underline;
+}
+
+.rss-logo {
+    padding-left: 100px;
+    padding-top: 5px;
+    width: 100px;
+    height: 100px;
+}
