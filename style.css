@@ -59,8 +59,8 @@ li.contact {
 /*белый фон*/
 
 .background {
-    background-image: url(gh-pages/img/background.jfif),
-                      url(gh-pages/img/background2.jpg);
+    background-image: url(/img/background.jfif),
+                      url(/img/background2.jpg);
     background-repeat: repeat;
     background-attachment: fixed;
     background-position: center;
