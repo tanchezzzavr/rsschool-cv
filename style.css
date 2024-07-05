@@ -59,7 +59,8 @@ li.contact {
 /*белый фон*/
 
 .background {
-    background-image: url(/img/background.jfif);
+    background-image: url(/img/background.jfif),
+                      url(/img/background2.jpg);
     background-repeat: repeat;
     background-attachment: fixed;
     background-position: center;
